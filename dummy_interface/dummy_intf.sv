@@ -1,0 +1,9 @@
+////////////////////////////////////////////////////////////////////////
+// Developer Name : Mohsan Naeem 
+// Contact info   : mohsannaeem1576@gmail.com
+// Module Name    : dummy_intf
+// Description    : Dummy interface which can be used to create new interface
+///////////////////////////////////////////////////////////////////////
+interface dummy_intf();
+
+endinterface
